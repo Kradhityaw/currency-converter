@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\Currency.08E530D3.Up2Date
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\USER\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
